@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/mlflow-model-registry/mlruns/468825721121493983/c18710488f3744ddbb46601b3eb30fe0/artifacts
+end_time: 1740582174246
+entry_point_name: ''
+experiment_id: '468825721121493983'
+lifecycle_stage: active
+run_id: c18710488f3744ddbb46601b3eb30fe0
+run_name: bold-bird-737
+run_uuid: c18710488f3744ddbb46601b3eb30fe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740582170745
+status: 3
+tags: []
+user_id: reza

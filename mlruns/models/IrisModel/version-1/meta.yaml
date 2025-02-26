@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740582174234
+current_stage: None
+description: null
+last_updated_timestamp: 1740582174234
+name: IrisModel
+run_id: c18710488f3744ddbb46601b3eb30fe0
+run_link: null
+source: file:///home/reza/Desktop/mlflow-model-registry/mlruns/468825721121493983/c18710488f3744ddbb46601b3eb30fe0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/reza/Desktop/mlflow-model-registry/mlruns/468825721121493983/c18710488f3744ddbb46601b3eb30fe0/artifacts/model
+user_id: null
+version: 1

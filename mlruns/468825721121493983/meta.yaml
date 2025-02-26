@@ -1,0 +1,6 @@
+artifact_location: file:///home/reza/Desktop/mlflow-model-registry/mlruns/468825721121493983
+creation_time: 1740582170635
+experiment_id: '468825721121493983'
+last_update_time: 1740582170635
+lifecycle_stage: active
+name: IrisModelExperiment
