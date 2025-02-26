@@ -48,8 +48,8 @@ mlflow-model-registry-demo/
 ### Clone the repository and navigate to the project directory.
 
 ```bash
-    git clone <repo>
-    cd <repo>
+    git clone <git@github.com:iAmAreza/Mlflow-Registry.git>
+    cd <Mlflow-Registry>
 ```
 
 ### 📦 Install Dependencies
